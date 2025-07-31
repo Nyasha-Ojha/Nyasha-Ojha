@@ -30,11 +30,6 @@ Machine Learning, QA and Blockchain
 
 Discipline isn't my default, but I choose it daily. I am a senior Computer Science student trying to learn some or other cool tech stuff every other day. Till now I have worked on Machine learning projects and done some testing on the side while working on a paper about Security and Privacy in Blockchain using Quantum Cryptography methods. Still thriving everyday in this world of AI and trying to creative and looking around for new problems.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [nyashao2910@gmail.com](mailto:nyashao2910@gmail.com)
-* 🧠  I'm learning Advanced DSA and DBMS
-* 🤝  I'm open to collaborating on Projects
-* ⚡  FIGHT CLUB MEMBER 🤫
 
 ### Skills
 
